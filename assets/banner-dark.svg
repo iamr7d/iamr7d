@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffa657" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffa657" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <!-- film strip edges -->
+  <rect y="0" width="1200" height="22" fill="#21262d"/>
+  <rect y="278" width="1200" height="22" fill="#21262d"/>
+  <rect x="14" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="14" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="48" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="48" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="82" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="82" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="116" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="116" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="150" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="150" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="184" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="184" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="218" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="218" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="252" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="252" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="286" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="286" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="320" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="320" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="354" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="354" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="388" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="388" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="422" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="422" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="456" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="456" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="490" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="490" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="524" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="524" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="558" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="558" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="592" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="592" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="626" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="626" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="660" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="660" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="694" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="694" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="728" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="728" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="762" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="762" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="796" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="796" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="830" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="830" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="864" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="864" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="898" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="898" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="932" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="932" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="966" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="966" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1000" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1000" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1034" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1034" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1068" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1068" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1102" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1102" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1136" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1136" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1170" y="6" width="16" height="10" rx="2" fill="#0d1117"/>
+  <rect x="1170" y="284" width="16" height="10" rx="2" fill="#0d1117"/>
+  <!-- attention glow and gaze rings (JOY motif) -->
+  <circle cx="985" cy="150" r="125" fill="url(#glow)"/>
+  <g fill="none" stroke="#ffa657" stroke-width="2">
+    <circle cx="985" cy="150" r="78" opacity="0.45"/>
+    <circle cx="985" cy="150" r="46" opacity="0.7"/>
+    <circle cx="985" cy="150" r="18"/>
+    <line x1="875" y1="150" x2="900" y2="150" opacity="0.7"/>
+    <line x1="1070" y1="150" x2="1095" y2="150" opacity="0.7"/>
+  </g>
+  <circle cx="985" cy="150" r="6" fill="#ffa657"/>
+  <!-- previous fixations (scanpath) -->
+  <g fill="#ffa657" opacity="0.55">
+    <circle cx="830" cy="92" r="4"/><circle cx="1110" cy="215" r="4"/><circle cx="905" cy="226" r="4"/>
+  </g>
+  <polyline points="830,92 905,226 985,150" fill="none" stroke="#ffa657" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.5"/>
+  <!-- text -->
+  <text x="64" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e6edf3">Rahulraj P V</text>
+  <text x="66" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#ffa657" font-weight="600">Applied ML Researcher · Behavioural Simulation · Multimodal AI · Film</text>
+  <text x="66" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9da7b3">MRes Creative Computing, UAL Creative Computing Institute · MTech AI · London</text>
+</svg>
