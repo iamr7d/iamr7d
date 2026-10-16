@@ -18,7 +18,7 @@ A place to find every scholarship, PhD, postdoc and research opportunity in the 
 
 ### Research
 
-**[JOY: an Artificial Viewer](https://joyaiviewer.vercel.app)** (MRes, UAL)<br>
+**[JOY](https://joyaiviewer.vercel.app)**: a closed-loop model of how people watch film (MRes, UAL)<br>
 A closed-loop observer for film. It sees only a foveated percept, arbitrates between audiovisual salience and a vision-language model's reading of the scene, selects its own fixations with human-like timing, and perceives the world from wherever that choice left it. The main finding is a dissociation: a state-dependent policy that improves prediction of human gaze in 5 of 5 folds wins on only 3 of 8 clips once it controls the loop. Prediction and observation are different problems.
 
 The system includes:
@@ -46,6 +46,6 @@ Real-time audience measurement from blinks and facial emotion. Built for my MTec
 
 - Rahulraj P. V., Sanil J., Anoop V. S., Asharaf S. *Monetize the Dual: A Data Analytic Approach for Native Language and Prequel Movie Popularity Analysis.* ICDAI 2023, Springer. [doi](https://doi.org/10.1007/978-981-99-3878-0_16)
 - *Narrative DNA: DNA-sequence inspired analysis of narrative dynamics in movie scripts.* Under review, 2026.
-- *JOY: Building an Artificial Viewer for Sequential Visual Attention in Film.* MRes thesis, UAL, 2026.
+- *JOY.* MRes thesis on sequential visual attention in film, UAL, 2026.
 
 <sub>Smaller experiments: [GRAD0](https://github.com/iamr7d/GRAD0) (LLM news director) · [LumiMeet](https://github.com/iamr7d/lumi_meet) · [wind.ai](https://github.com/iamr7d/wind.ai) · [story-space](https://github.com/iamr7d/story-space) · [film_space_vr-](https://github.com/iamr7d/film_space_vr-)</sub>
